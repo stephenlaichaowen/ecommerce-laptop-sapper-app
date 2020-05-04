@@ -124,6 +124,7 @@
     justify-content: space-around;
     position: absolute;
     right: 20%;
+    /* bottom: 5%; */
   }
   @keyframes drop {
     0% {
@@ -168,10 +169,12 @@
     }
   }
   @media (max-width: 575px) {
-    .cover,
-    .laptop-select {
+    .cover {
       z-index: -1;
     }    
+    /* .cta-select {
+      z-index: 2;
+    } */
   }  
   @media (max-width: 480px) {
     .big-circle,
@@ -187,16 +190,15 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      flex-direction: column;
-      /* padding: 0; */
+      flex-direction: column;      
     }
     .cta-add {
       margin: 10px;
     }
   }
   @media (max-width:390px) {
-    .laptop-select {
+    /* .laptop-select {
       bottom: 20px;
-    }
+    } */
   }
 </style>
