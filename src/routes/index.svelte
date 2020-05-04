@@ -9,9 +9,9 @@
 </script>
 
 <style>
-  .body {
+  /* .body {
     position: relative;
-  }
+  } */
   .presentation {
     display: flex;
     width: 90%;
@@ -125,9 +125,9 @@
     }
     .laptop-select {
       bottom: 5%;
-      right: 50%;
+      left: 50%;
       width: 50%;
-      transform: translate(50%, 5%);
+      transform: translate(-50%, -5%);
     }
     .cover img {
       height: 80%;
@@ -174,7 +174,7 @@
       bottom: 20px;
     } */
     .intro-text p {
-      font-size: 8px;
+      font-size: 14px;
     }    
   }
 </style>
