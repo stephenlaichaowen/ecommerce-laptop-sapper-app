@@ -185,6 +185,9 @@
     .cover img {
       height: 35vh;
     }
+    .intro-text p {
+      font-size: 14px;
+    }
     .cta {
       margin-top: 30px;
       display: flex;
