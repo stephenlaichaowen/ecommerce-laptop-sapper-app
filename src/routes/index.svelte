@@ -177,7 +177,7 @@
       font-size: 20px;
     }
     .intro-text p {
-      font-size: 12px;
+      font-size: 8px;
     }    
   }
 </style>
