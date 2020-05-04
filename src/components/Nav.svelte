@@ -124,6 +124,14 @@
     <ul class="nav-links" class:open>
       <li>
         <a
+          aria-current={segment === 'undefined' ? 'page' : undefined}
+          class="nav-link"
+          href=".">
+          Home
+        </a>
+      </li>
+      <li>
+        <a
           aria-current={segment === 'specs' ? 'page' : undefined}
           class="nav-link"
           href="specs">
