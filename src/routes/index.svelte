@@ -174,10 +174,10 @@
       bottom: 20px;
     } */
     .intro-text h1 {
-      font-size: 22px;
+      font-size: 20px;
     }
     .intro-text p {
-      font-size: 14px;
+      font-size: 12px;
     }    
   }
 </style>
