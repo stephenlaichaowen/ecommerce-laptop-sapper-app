@@ -4,12 +4,6 @@
 	export let segment;
 </script>
 
-<style>
-	main {
-	
-	}
-</style>
-
 <Nav {segment}/>
 
 <main>
