@@ -73,7 +73,7 @@
       flex-direction: column;
     }
     .nav-links {
-      height: 100vh;
+      min-height: 100vh;
       width: 100vw;
       background: #5F5F79;      
       flex-direction: column;
