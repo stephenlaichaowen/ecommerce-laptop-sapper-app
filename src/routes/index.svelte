@@ -173,6 +173,9 @@
     /* .laptop-select {
       bottom: 20px;
     } */
+    .intro-text h1 {
+      font-size: 22px;
+    }
     .intro-text p {
       font-size: 14px;
     }    
