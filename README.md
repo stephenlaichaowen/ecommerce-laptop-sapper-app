@@ -58,7 +58,7 @@ git push origin master
 
 Login your Netlify account
 
-Go to `app.netlify.com/teams/yourteam/sites` page
+Go to `app.netlify.com/teams/your-team/sites` page
 
 Click `New site from Git`
 
